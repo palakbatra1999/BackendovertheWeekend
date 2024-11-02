@@ -1,0 +1,17 @@
+{
+  "name": "backendweekend",
+  "version": "1.0.0",
+  "description": "Basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Palak Batra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
